@@ -2,7 +2,7 @@ to get users
 
 http://localhost:5555/api/auth/users
 
-https://zomato-login.herokuapp.com/api/auth/users 
+https://booking-login.herokuapp.com/api/auth/users 
 
 -------------------------------------------------------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ to register a new user
 
 http://localhost:5555/api/auth/register
 
-https://zomato-login.herokuapp.com/api/auth/register
+https://booking-login.herokuapp.com/api/auth/register
 
 
 -------------------------------------------------------------------------------------------------------------------------
@@ -21,7 +21,7 @@ to login
 
 http://localhost:5555/api/auth/login
 
-https://zomato-login.herokuapp.com/api/auth/login
+https://booking-login.herokuapp.com/api/auth/login
 
 
 -------------------------------------------------------------------------------------------------------------------------
@@ -32,7 +32,7 @@ to get user information
 
 http://localhost:5555/api/auth/userinfo?key=value
 
-https://zomato-login.herokuapp.com/api/auth/userinfo
+https://booking-login.herokuapp.com/api/auth/userinfo
 
 
 -------------------------------------------------------------------------------------------------------------------------
@@ -42,7 +42,7 @@ to delete all users
 
 http://localhost:5555/api/auth/delete
 
-https://zomato-login.herokuapp.com/api/auth/delete
+https://booking-login.herokuapp.com/api/auth/delete
 
 
 
@@ -50,8 +50,7 @@ https://zomato-login.herokuapp.com/api/auth/delete
 
 github repo link 
 
-https://github.com/pinnepalliharish/zomato_login_logout_api.git
-
+https://github.com/pinnepalliharish/booking-login-logout-apis.git
 
 
 
